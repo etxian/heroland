@@ -16,5 +16,5 @@ for f in files:
         if f == 'System.json':
             content['versionId'] = 12345678
     with open(f, "w") as output:
-        formatted = json.dumps(content, indent=2, ensure_ascii=False, sort_keys=True).encode('utf-8')
+        formatted = json.dumps(content, indent=2, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')
         output.write(formatted)
