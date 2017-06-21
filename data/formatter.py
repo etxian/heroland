@@ -14,5 +14,5 @@ for f in files:
     with open(f, 'r') as input:
         content = json.load(input)
     with open(f, "w") as output:
-        formatted = json.dumps(content, indent=2, ensure_ascii=False).encode('utf-8')
+        formatted = json.dumps(content, indent=2, ensure_ascii=False, sort_keys=True).encode('utf-8')
         output.write(formatted)

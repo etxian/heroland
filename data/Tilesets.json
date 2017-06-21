@@ -1,8 +1,6 @@
 [
   null, 
   {
-    "name": "世界", 
-    "note": "", 
     "flags": [
       16, 
       1551, 
@@ -8197,7 +8195,10 @@
       3599, 
       3599
     ], 
+    "id": 1, 
     "mode": 0, 
+    "name": "世界", 
+    "note": "", 
     "tilesetNames": [
       "World_A1", 
       "World_A2", 
@@ -8208,12 +8209,9 @@
       "World_C", 
       "", 
       ""
-    ], 
-    "id": 1
+    ]
   }, 
   {
-    "name": "外观", 
-    "note": "", 
     "flags": [
       16, 
       1551, 
@@ -16408,7 +16406,10 @@
       3599, 
       3599
     ], 
+    "id": 2, 
     "mode": 1, 
+    "name": "外观", 
+    "note": "", 
     "tilesetNames": [
       "Outside_A1", 
       "Outside_A2", 
@@ -16419,12 +16420,9 @@
       "Outside_C", 
       "", 
       ""
-    ], 
-    "id": 2
+    ]
   }, 
   {
-    "name": "内部", 
-    "note": "", 
     "flags": [
       16, 
       1536, 
@@ -24619,7 +24617,10 @@
       3599, 
       3599
     ], 
+    "id": 3, 
     "mode": 1, 
+    "name": "内部", 
+    "note": "", 
     "tilesetNames": [
       "Inside_A1", 
       "Inside_A2", 
@@ -24630,12 +24631,9 @@
       "Inside_C", 
       "", 
       ""
-    ], 
-    "id": 3
+    ]
   }, 
   {
-    "name": "地下城", 
-    "note": "", 
     "flags": [
       16, 
       1551, 
@@ -32830,7 +32828,10 @@
       3599, 
       3599
     ], 
+    "id": 4, 
     "mode": 1, 
+    "name": "地下城", 
+    "note": "", 
     "tilesetNames": [
       "Dungeon_A1", 
       "Dungeon_A2", 
@@ -32841,12 +32842,9 @@
       "Dungeon_C", 
       "", 
       ""
-    ], 
-    "id": 4
+    ]
   }, 
   {
-    "name": "近未来外观", 
-    "note": "", 
     "flags": [
       16, 
       1551, 
@@ -41041,7 +41039,10 @@
       3599, 
       3599
     ], 
+    "id": 5, 
     "mode": 1, 
+    "name": "近未来外观", 
+    "note": "", 
     "tilesetNames": [
       "Outside_A1", 
       "Outside_A2", 
@@ -41052,12 +41053,9 @@
       "SF_Outside_C", 
       "", 
       ""
-    ], 
-    "id": 5
+    ]
   }, 
   {
-    "name": "近未来内部", 
-    "note": "", 
     "flags": [
       16, 
       1536, 
@@ -49252,7 +49250,10 @@
       3599, 
       3599
     ], 
+    "id": 6, 
     "mode": 1, 
+    "name": "近未来内部", 
+    "note": "", 
     "tilesetNames": [
       "Inside_A1", 
       "Inside_A2", 
@@ -49263,7 +49264,6 @@
       "SF_Inside_C", 
       "SF_Inside_D", 
       ""
-    ], 
-    "id": 6
+    ]
   }
 ]

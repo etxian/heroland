@@ -1,54 +1,39 @@
 [
   null, 
   {
+    "actions": [
+      {
+        "conditionParam1": 0, 
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
+      }
+    ], 
     "battlerHue": 0, 
     "battlerName": "wb2", 
     "dropItems": [
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
-    "name": "晚报", 
+    "exp": 0, 
     "gold": 0, 
-    "actions": [
-      {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
-        "conditionParam1": 0, 
-        "conditionParam2": 0
-      }
-    ], 
+    "id": 1, 
+    "name": "晚报", 
     "note": "", 
-    "traits": [
-      {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
-      }, 
-      {
-        "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
-      }, 
-      {
-        "dataId": 1, 
-        "code": 31, 
-        "value": 0
-      }
-    ], 
     "params": [
       200, 
       0, 
@@ -59,58 +44,58 @@
       30, 
       30
     ], 
-    "exp": 0, 
-    "id": 1
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 2, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -121,58 +106,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 2
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 3, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -183,58 +168,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 3
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 4, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -245,58 +230,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 4
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 5, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -307,58 +292,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 5
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 6, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -369,58 +354,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 6
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 7, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -431,58 +416,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 7
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 8, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -493,58 +478,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 8
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 9, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -555,58 +540,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 9
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 10, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -617,58 +602,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 10
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 11, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -679,58 +664,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 11
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 12, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -741,58 +726,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 12
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 13, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -803,58 +788,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 13
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 14, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -865,58 +850,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 14
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 15, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -927,58 +912,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 15
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 16, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -989,58 +974,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 16
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 17, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1051,58 +1036,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 17
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 18, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1113,58 +1098,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 18
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 19, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1175,58 +1160,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 19
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 20, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1237,58 +1222,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 20
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 21, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1299,58 +1284,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 21
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 22, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1361,58 +1346,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 22
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 23, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1423,58 +1408,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 23
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 24, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1485,58 +1470,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 24
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 25, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1547,58 +1532,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 25
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 26, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1609,58 +1594,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 26
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 27, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1671,58 +1656,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 27
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 28, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1733,58 +1718,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 28
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 29, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1795,58 +1780,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 29
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 30, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1857,58 +1842,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 30
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 31, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1919,58 +1904,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 31
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 32, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -1981,58 +1966,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 32
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 33, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2043,58 +2028,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 33
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 34, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2105,58 +2090,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 34
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 35, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2167,58 +2152,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 35
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 36, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2229,58 +2214,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 36
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 37, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2291,58 +2276,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 37
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 38, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2353,58 +2338,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 38
+    "traits": [
+      {
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
+      }, 
+      {
+        "code": 22, 
+        "dataId": 1, 
+        "value": 0.05
+      }, 
+      {
+        "code": 31, 
+        "dataId": 1, 
+        "value": 0
+      }
+    ]
   }, 
   {
+    "actions": [
+      {
+        "conditionParam1": 0, 
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
+      }
+    ], 
     "battlerHue": 0, 
     "battlerName": "", 
     "dropItems": [
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
-    "name": "", 
+    "exp": 0, 
     "gold": 0, 
-    "actions": [
-      {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
-        "conditionParam1": 0, 
-        "conditionParam2": 0
-      }
-    ], 
+    "id": 39, 
+    "name": "", 
     "note": "", 
-    "traits": [
-      {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
-      }, 
-      {
-        "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
-      }, 
-      {
-        "dataId": 1, 
-        "code": 31, 
-        "value": 0
-      }
-    ], 
     "params": [
       100, 
       0, 
@@ -2415,58 +2400,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 39
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 40, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2477,58 +2462,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 40
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 41, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2539,58 +2524,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 41
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 42, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2601,58 +2586,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 42
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 43, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2663,58 +2648,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 43
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 44, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2725,58 +2710,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 44
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 45, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2787,58 +2772,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 45
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 46, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2849,58 +2834,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 46
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 47, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2911,58 +2896,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 47
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 48, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -2973,58 +2958,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 48
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 49, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3035,58 +3020,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 49
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 50, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3097,58 +3082,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 50
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 51, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3159,58 +3144,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 51
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 52, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3221,58 +3206,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 52
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 53, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3283,58 +3268,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 53
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 54, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3345,58 +3330,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 54
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 55, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3407,58 +3392,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 55
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 56, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3469,58 +3454,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 56
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 57, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3531,58 +3516,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 57
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 58, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3593,58 +3578,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 58
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 59, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3655,58 +3640,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 59
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 60, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3717,58 +3702,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 60
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 61, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3779,58 +3764,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 61
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 62, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3841,58 +3826,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 62
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 63, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3903,58 +3888,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 63
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 64, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -3965,58 +3950,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 64
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 65, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4027,58 +4012,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 65
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 66, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4089,58 +4074,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 66
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 67, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4151,58 +4136,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 67
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 68, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4213,58 +4198,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 68
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 69, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4275,58 +4260,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 69
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 70, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4337,58 +4322,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 70
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 71, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4399,58 +4384,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 71
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 72, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4461,58 +4446,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 72
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 73, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4523,58 +4508,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 73
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 74, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4585,58 +4570,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 74
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
-      }
-    ], 
-    "name": "", 
-    "gold": 0, 
+        "value": 0
+      }
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 75, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4647,58 +4632,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 75
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 76, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4709,58 +4694,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 76
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 77, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4771,58 +4756,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 77
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 78, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4833,58 +4818,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 78
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 79, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4895,58 +4880,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 79
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 80, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -4957,58 +4942,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 80
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 81, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5019,58 +5004,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 81
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 82, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5081,58 +5066,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 82
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 83, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5143,58 +5128,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 83
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 84, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5205,58 +5190,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 84
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 85, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5267,58 +5252,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 85
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 86, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5329,58 +5314,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 86
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
-        "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 87, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5391,58 +5376,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 87
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 88, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5453,58 +5438,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 88
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 89, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5515,58 +5500,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 89
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 90, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5577,58 +5562,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 90
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 91, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5639,58 +5624,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 91
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 92, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5701,58 +5686,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 92
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 93, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5763,58 +5748,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 93
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 94, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5825,58 +5810,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 94
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 95, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5887,58 +5872,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 95
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 96, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -5949,58 +5934,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 96
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 97, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -6011,58 +5996,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 97
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 98, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -6073,58 +6058,58 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 98
-  }, 
-  {
-    "battlerHue": 0, 
-    "battlerName": "", 
-    "dropItems": [
+    "traits": [
       {
-        "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
       }, 
       {
+        "code": 22, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0.05
       }, 
       {
+        "code": 31, 
         "dataId": 1, 
-        "kind": 0, 
-        "denominator": 1
+        "value": 0
       }
-    ], 
-    "name": "", 
-    "gold": 0, 
+    ]
+  }, 
+  {
     "actions": [
       {
-        "rating": 5, 
-        "conditionType": 0, 
-        "skillId": 1, 
         "conditionParam1": 0, 
-        "conditionParam2": 0
+        "conditionParam2": 0, 
+        "conditionType": 0, 
+        "rating": 5, 
+        "skillId": 1
       }
     ], 
-    "note": "", 
-    "traits": [
+    "battlerHue": 0, 
+    "battlerName": "", 
+    "dropItems": [
       {
-        "dataId": 0, 
-        "code": 22, 
-        "value": 0.95
+        "dataId": 1, 
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 22, 
-        "value": 0.05
+        "denominator": 1, 
+        "kind": 0
       }, 
       {
         "dataId": 1, 
-        "code": 31, 
-        "value": 0
+        "denominator": 1, 
+        "kind": 0
       }
     ], 
+    "exp": 0, 
+    "gold": 0, 
+    "id": 99, 
+    "name": "", 
+    "note": "", 
     "params": [
       100, 
       0, 
@@ -6135,7 +6120,22 @@
       10, 
       10
     ], 
-    "exp": 0, 
-    "id": 99
+    "traits": [
+      {
+        "code": 22, 
+        "dataId": 0, 
+        "value": 0.95
+      }, 
+      {
+        "code": 22, 
+        "dataId": 1, 
+        "value": 0.05
+      }, 
+      {
+        "code": 31, 
+        "dataId": 1, 
+        "value": 0
+      }
+    ]
   }
 ]

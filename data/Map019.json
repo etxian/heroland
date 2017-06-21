@@ -1,21 +1,20 @@
 {
-  "disableDashing": false, 
-  "height": 13, 
-  "parallaxShow": true, 
-  "specifyBattleback": false, 
-  "encounterList": [], 
-  "parallaxLoopX": false, 
-  "parallaxLoopY": false, 
-  "parallaxSx": 0, 
-  "parallaxSy": 0, 
-  "note": "", 
-  "width": 25, 
-  "events": [], 
-  "battleback2Name": "", 
-  "tilesetId": 2, 
-  "autoplayBgs": false, 
   "autoplayBgm": false, 
+  "autoplayBgs": false, 
   "battleback1Name": "", 
+  "battleback2Name": "", 
+  "bgm": {
+    "name": "", 
+    "pan": 0, 
+    "pitch": 100, 
+    "volume": 90
+  }, 
+  "bgs": {
+    "name": "", 
+    "pan": 0, 
+    "pitch": 100, 
+    "volume": 90
+  }, 
   "data": [
     1584, 
     1584, 
@@ -1968,20 +1967,21 @@
     0, 
     0
   ], 
+  "disableDashing": false, 
   "displayName": "水雾森林", 
+  "encounterList": [], 
   "encounterStep": 30, 
-  "bgm": {
-    "volume": 90, 
-    "name": "", 
-    "pan": 0, 
-    "pitch": 100
-  }, 
+  "events": [], 
+  "height": 13, 
+  "note": "", 
+  "parallaxLoopX": false, 
+  "parallaxLoopY": false, 
   "parallaxName": "", 
-  "bgs": {
-    "volume": 90, 
-    "name": "", 
-    "pan": 0, 
-    "pitch": 100
-  }, 
-  "scrollType": 0
+  "parallaxShow": true, 
+  "parallaxSx": 0, 
+  "parallaxSy": 0, 
+  "scrollType": 0, 
+  "specifyBattleback": false, 
+  "tilesetId": 2, 
+  "width": 25
 }
